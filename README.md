@@ -1,0 +1,2 @@
+# MancalaServer
+Server for Mancala
