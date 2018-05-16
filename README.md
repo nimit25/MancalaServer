@@ -1,2 +1,2 @@
 # MancalaServer
-Server for Mancala
+Server for Mancala (link https://en.wikipedia.org/wiki/Mancala ) 
